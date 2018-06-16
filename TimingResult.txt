@@ -1,0 +1,5 @@
+Searching selenium at github: 1.1776237487792969*(Seconds) 
+Clicking on the next page took: 0.11600208282470703*(Seconds) 
+Clicking on the next page took: 0.11100459098815918*(Seconds) 
+Clicking on the next page took: 0.09600114822387695*(Seconds) 
+Clicking on the next page took: 0.11240720748901367*(Seconds) 

@@ -1,0 +1,48 @@
+Title,Description,Tags,Time,Lang,Star 
+SeleniumHQ/selenium,A browser automation framework and ecosystem., | java | selenium | ruby | python | webdriver,17 hours ago,Java,10.8k 
+robotframework/SeleniumLibrary,Web testing library for Robot Framework, | python | selenium | robotframework,18 hours ago,Python,540 
+SeleniumHQ/docker-selenium,Docker images for Selenium Grid Server (Standalone  Hub  and Nodes)., | docker-selenium | docker | webdriver | selenium | selenium-server | selenium-grid | selenium-node,3 days ago,Shell,2.4k 
+tebeka/selenium,Selenium/Webdriver client for Go,,6 hours ago,Go,394 
+watir/watir,Watir Powered By Selenium,,16 hours ago,Ruby,1.1k 
+seleniumbase/SeleniumBase,Automated testing made fast  easy  and reliable., | webdriver | pytest | python | selenium | test-automation | test-framework | page-object-model,3 days ago,Python,388 
+baijum/selenium-python,Selenium Python Bindings Documentation, | python | webdriver | selenium | python3,on Feb 16,Python,408 
+giorgiosironi/phpunit-selenium,Selenium RC integration for PHPUnit,,on Jan 4,PHP,549 
+elgalu/docker-selenium,Selenium in Docker with Chrome & Firefox plus video recording support. Also check: Zalenium, | video-recording | chrome | vnc | docker-selenium | firefox | headless | selenium-server | selenium-grid,5 hours ago,Shell,932 
+vvo/selenium-standalone,get a `selenium-standalone install/start` command line to start a standalone selenium server with chromedriver  firef…,,4 days ago,JavaScript,694 
+Ardesco/Selenium-Maven-Template,A maven template for Selenium that will let you check out and go., | java | template | webdriver | maven | selenium | selenium-webdriver,11 days ago,Java,256 
+SeleniumHQ/www.seleniumhq.org,Official user guide for Selenium - a browser automation tool.,,11 days ago,Java,118 
+groupon/Selenium-Grid-Extras,Simplify the management of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after…,,11 days ago,Ruby,455 
+executeautomation/SeleniumWithCucucumber,In this project we will discuss working Selenium with cucumber, | selenium | cucumber | java | framework | webdriver | intellij | idea,on Apr 12,HTML,21 
+florentbr/SeleniumBasic,A Selenium based browser automation framework for VB.Net  VBA and VBScript,,on Mar 2  2016,C#,107 
+jenkinsci/selenium-plugin,Jenkins selenium plugin,,11 days ago,Java,105 
+admc/wd,A node.js client for webdriver/selenium 2.,,5 days ago,JavaScript,1.3k 
+tarun3kumar/seleniumtestsframework,STF is a webdriver based test automation library which generates comprehensible tests reports comparable to BDD frame…,,on Apr 21,Java,74 
+LearnBoost/soda,Selenium Node.JS adapter,,on Nov 26  2012,JavaScript,478 
+bonigarcia/webdrivermanager,Automatic management of Selenium WebDriver binaries, | selenium-webdriver | java | maven | selenium | chromedriver | geckodriver,8 days ago,Java,543 
+fool2fish/selenium-doc,selenium sebarmeli/Selenium2-Java-QuickStart-Archetype,Maven Archetype for getting started with Selenium 2 (Java),,on Feb 22  2017,Java,66 
+tobecrazy/SeleniumDemo,Selenium automation test framework, | snapshot | python | jenkins | crawler | maven | selenium | pip | selenium-webdriver | selenium-grid,11 days ago,HTML,40 
+SeleniumHQ/selenium-ide,Work in progress for Selenium IDE TNG,,a day ago,JavaScript,290 
+SeleniumHQ/selenium-google-code-issue-archive,Archive  please see main selenium repo,,on Sep 12  2016,,230 
+73rhodes/sideflow,Flow control extension for Selenium IDE,,on Apr 17  2015,JavaScript,125 
+minkphp/MinkSelenium2Driver,Selenium2 (webdriver) driver for Mink framework, | selenium | webdriver | php | mink | mink-driver,on Jan 7,PHP,168 
+tourdedave/elemental-selenium-tips,Open-sourced code examples Elemental Selenium tips,,14 days ago,JavaScript,171 
+Wikia/selenium-tests,Open-sourced code examples Elemental Selenium tips,,a day ago,Java,111 
+christian-bromann/awesome-selenium,A curated list of delightful Selenium resources.,,on Apr 18,,354 
+admc/se-builder,Selenium Builder Project,,on Feb 29  2016,JavaScript,22 
+semperos/clj-webdriver,[UNMAINTAINED] Clojure API for Selenium-WebDriver,,on Dec 7  2016,Clojure,448 
+RetailMeNot/SeleniumGridScaler,Selenium Grid auto scaling plugin utilizing AWS,,on Nov 1  2016,Java,27 
+seleniumcn/seleniumcn,Selenium Grid auto scaling plugin utilizing AWS,,on Mar 31,Java,37 
+sourcegraph/go-selenium,Selenium WebDriver client for Go,,on Jun 12  2017,Go,273 
+oraz/selenium,selenium tests,,on Nov 14  2013,Java,33 
+machzqcq/CucumberJVMExamples,Cucumber JVM with Selenium Java, | selenium-java | cucumber-jvm | tdd | bdd | atdd | test-automation,on May 15  2017,Java,55 
+Anomen/vagrant-selenium,Vagrant configuration based on ubuntu/trusty64  ready to be used with Selenium.,,on Aug 3  2017,Shell,87 
+MarkusBernhardt/robotframework-selenium2library-java,Java port of the Selenium 2 (WebDriver) Python library for Robot Framework,,on Sep 18  2017,Java,46 
+wycm/selenium-geetest-crack,sleniumdefnngj/pyse,WebUI automation testing framework based on Selenium, | selenium | python | test-framework,5 days ago,Python,136 
+teodesian/Selenium-Remote-Driver,Perl Bindings to the Selenium Webdriver server, | selenium-webdriver | perl | selenium | webdriver-3,11 days ago,Perl,138 
+atosorigin/SeleniumExample,Starter kit for automated testing of web pages with Selenium and C#,,on Mar 4  2015,C#,33 
+ph7/selenium-client,Official Ruby client API for Selenium Remote Control (bare bone client driver),,on May 15  2012,Ruby,156 
+paypal/nemo-core,Selenium-webdriver based automation in node.js,,on Jan 21,JavaScript,247 
+pytest-dev/pytest-selenium,Plugin for running Selenium with pytest, | plugin | webdriver | selenium | pytest,12 days ago,Python,111 
+voliveirajr/seleniumcrawler,An example using Selenium webdrivers for python and Scrapy framework to create a web scraper to crawl an ASP site,,on Aug 28  2013,Python,82 
+appium/appium-dotnet-driver,Extension to the official Selenium dotnet webdriver,,4 days ago,C#,103 
+LearnByBhanuPratap/pageobjectmodel-seleniumFramework,Extension to the official Selenium dotnet webdriver,,on Aug 15  2017,Java,13 
